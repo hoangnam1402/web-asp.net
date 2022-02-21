@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo vip\\Desktop\\work\\web\\nashteck1\\nashteck1.csproj",
-      "projectName": "nashteck1",
-      "projectPath": "C:\\Users\\lenovo vip\\Desktop\\work\\web\\nashteck1\\nashteck1.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo vip\\Desktop\\work\\web\\nashteck1\\customer-site\\Customer-site.csproj",
+      "projectName": "Customer-site",
+      "projectPath": "C:\\Users\\lenovo vip\\Desktop\\work\\web\\nashteck1\\customer-site\\Customer-site.csproj",
       "packagesPath": "C:\\Users\\lenovo vip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo vip\\Desktop\\work\\web\\nashteck1\\obj\\",
+      "outputPath": "C:\\Users\\lenovo vip\\Desktop\\work\\web\\nashteck1\\customer-site\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo vip\\AppData\\Roaming\\NuGet\\NuGet.Config",

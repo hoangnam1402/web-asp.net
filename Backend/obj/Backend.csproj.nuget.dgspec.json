@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo vip\\Desktop\\work\\web\\nashteck1\\Backend\\Backend.csproj": {}
+    "C:\\Users\\lenovo vip\\Desktop\\work\\web\\nashteck1\\backend\\Backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo vip\\Desktop\\work\\web\\nashteck1\\Backend\\Backend.csproj": {
+    "C:\\Users\\lenovo vip\\Desktop\\work\\web\\nashteck1\\backend\\Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo vip\\Desktop\\work\\web\\nashteck1\\Backend\\Backend.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo vip\\Desktop\\work\\web\\nashteck1\\backend\\Backend.csproj",
         "projectName": "Backend",
-        "projectPath": "C:\\Users\\lenovo vip\\Desktop\\work\\web\\nashteck1\\Backend\\Backend.csproj",
+        "projectPath": "C:\\Users\\lenovo vip\\Desktop\\work\\web\\nashteck1\\backend\\Backend.csproj",
         "packagesPath": "C:\\Users\\lenovo vip\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo vip\\Desktop\\work\\web\\nashteck1\\Backend\\obj\\",
+        "outputPath": "C:\\Users\\lenovo vip\\Desktop\\work\\web\\nashteck1\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo vip\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,38 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools.DotNet": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
